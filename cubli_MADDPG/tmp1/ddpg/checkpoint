@@ -1,0 +1,2 @@
+model_checkpoint_path: "agent3_actor_ddpg"
+all_model_checkpoint_paths: "agent3_actor_ddpg"

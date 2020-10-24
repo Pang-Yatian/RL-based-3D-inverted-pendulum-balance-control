@@ -1,0 +1,2 @@
+model_checkpoint_path: "eval_net_ddqn"
+all_model_checkpoint_paths: "eval_net_ddqn"
