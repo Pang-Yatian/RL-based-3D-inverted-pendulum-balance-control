@@ -2,7 +2,7 @@
 This project is a preliminary exploration of applying RL algorithms to a ballbot.
 
 
-Related project:[A Ball Balancing Bobot](https://github.com/Pang-Yatian/A-Ball-Balacicng-Robot) 
+Related project: [A Ball Balancing Bobot](https://github.com/Pang-Yatian/A-Ball-Balacicng-Robot) 
 
 
 Not completely finished yet.
