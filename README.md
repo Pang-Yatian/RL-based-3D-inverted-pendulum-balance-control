@@ -16,8 +16,19 @@ Not completely finished yet.
 ## Run
 
 ## Results
-
 ### Balance on edge
 
 #### DQN
-![image](https://github.com/Pang-Yatian/RL-based-3D-inverted-pendulum-balance-control/tree/master/gif/DQN.gif)
+![image](/gif/DQN.gif)
+#### DDQN
+![image](/gif/DDQN.gif)
+#### DDPG
+![image](/gif/DDPG.gif)
+
+### Balance on corner
+#### DDPG
+![image](/gif/DDPG_corner.gif)
+
+#### MADDPG
+(still under training)
+![image](/gif/MADDPG.gif)
