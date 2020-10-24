@@ -23,6 +23,7 @@ pybullet     version == 2.9.3
 tensorflow   version == 2.0.0
  
 ## Results
+Traning logs can be found in folders/mylogs
 
 Demo
 ### Balance on edge
