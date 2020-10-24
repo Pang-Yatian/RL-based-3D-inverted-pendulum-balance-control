@@ -8,21 +8,29 @@ Related project: [A Ball Balancing Bobot](https://github.com/Pang-Yatian/A-Ball-
 Not completely finished yet.
 
 ## Introduction
+In this project, we explore Reinforcement Learning (RL) based self-balancing control of a 3D inverted pendulum,which is a reaction-wheel-based cube robot. ([The Cubli](https://idsc.ethz.ch/research-dandrea/research-projects/archive/cubli.html))
 
+
+We apply different algorithms and compare their difference.
+
+First, design agents to control it balance on its edge. Then, on its corner.
 
 ## Requirements
-
-
-## Run
-
+gym
+pybullet     version == 2.9.3
+tensorflow   version == 2.0.0
+ 
 ## Results
 ### Balance on edge
 
 #### DQN
+(discrete action space)
 ![image](/gif/DQN.gif)
 #### DDQN
+(discrete action space)
 ![image](/gif/DDQN.gif)
 #### DDPG
+(continuous action space)
 ![image](/gif/DDPG.gif)
 
 ### Balance on corner
