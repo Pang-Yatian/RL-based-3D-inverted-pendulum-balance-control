@@ -17,7 +17,9 @@ First, design agents to control it balance on its edge. Then, on its corner.
 
 ## Requirements
 gym
+
 pybullet     version == 2.9.3
+
 tensorflow   version == 2.0.0
  
 ## Results
