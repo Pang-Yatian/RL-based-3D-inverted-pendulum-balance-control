@@ -26,6 +26,8 @@ tensorflow   version == 2.0.0
 Traning logs can be found in folders/mylogs
 
 Demo
+
+https://youtu.be/seaSP5W9LvY
 ### Balance on edge
 
 #### DQN
