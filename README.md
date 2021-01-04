@@ -21,6 +21,7 @@ Traning logs can be found in folders/mylogs
 
 Demo
 https://youtu.be/kXEApVPTZNA
+
 https://youtu.be/seaSP5W9LvY
 ### Balance on edge
 
