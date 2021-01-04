@@ -1,11 +1,5 @@
 # RL-based-3D-inverted-pendulum-balance-control
-This project is a preliminary exploration of applying RL algorithms to a ballbot.
-
-
-Related project: [A Ball Balancing Bobot](https://github.com/Pang-Yatian/A-Ball-Balacicng-Robot) 
-
-
-Not completely finished yet.
+ME5406 project2. This project is also a preliminary exploration of applying RL algorithms to a ballbot.
 
 ## Introduction
 In this project, we explore Reinforcement Learning (RL) based self-balancing control of a 3D inverted pendulum,which is a reaction-wheel-based cube robot. ([The Cubli](https://idsc.ethz.ch/research-dandrea/research-projects/archive/cubli.html))
@@ -26,7 +20,7 @@ tensorflow   version == 2.0.0
 Traning logs can be found in folders/mylogs
 
 Demo
-
+https://youtu.be/kXEApVPTZNA
 https://youtu.be/seaSP5W9LvY
 ### Balance on edge
 
